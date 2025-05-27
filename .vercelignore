@@ -1,0 +1,7 @@
+.git/
+__pycache__/
+*.pyc
+*.env
+.venv/
+pokemon_identifier.py
+embeddings_dataset_generator.py
